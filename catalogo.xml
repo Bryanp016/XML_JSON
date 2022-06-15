@@ -1,0 +1,102 @@
+<Usuariosdatos>
+  <!-- PRIMER USUARIO -->
+    <estudiante id="1">
+      <apellidos>Ayovi Sanchez</apellidos>
+      <nombres>Jose Marcos</nombres>
+      <semestre>4to</semestre>
+      <paralelo>A</paralelo>
+      <direccion>Los esteros</direccion>
+      <telefono>0925549631</telefono>
+      <correo_electronico>Ayovi@gmail.com</correo_electronico>
+    </estudiante>
+    <!-- SEGUNDO USUARIO -->
+    <estudiante id="2">
+      <apellidos>Pin Tinitana</apellidos>
+      <nombres>Bryan Antonio</nombres>
+          <semestre>5to</semestre>
+          <paralelo>B</paralelo>
+          <direccion>Los espinos</direccion>
+          <telefono>0925496317</telefono>
+          <correo_electronico>bryan@gmail.com</correo_electronico>
+    </estudiante>
+    <!-- TERCER USUARIO -->
+    <estudiante id="3">
+      <apellidos>Mero Segovia</apellidos>
+      <nombres>Ariana Tabata</nombres>
+      <semestre>5to</semestre>
+      <paralelo>A</paralelo>
+      <direccion>La pradera</direccion>
+      <telefono>0946319875</telefono>
+      <correo_electronico>mero@hotmail.com</correo_electronico>
+    </estudiante>
+    <!-- CUARTO USUARIO -->
+    <estudiante id="4">
+      <apellidos>Bosquez Ortega</apellidos>
+          <nombres>Hector maximiliano</nombres>
+          <semestre>6to</semestre>
+          <paralelo>B</paralelo>
+          <direccion>Barrio Cuba</direccion>
+          <telefono>0926479318</telefono>
+          <correo_electronico>hector@gmail.com</correo_electronico>
+    </estudiante>
+    <!-- QUINTO USUARIO -->
+    <estudiante id="5">
+      <apellidos>Palacios Bermello</apellidos>
+      <nombres>Jipson Luis</nombres>
+      <semestre>6to</semestre>
+      <paralelo>B</paralelo>
+      <direccion>Crucita</direccion>
+      <telefono>0978361942</telefono>
+      <correo_electronico>palacios@gmail.com</correo_electronico>
+    </estudiante>
+    <!-- SEXTO USUARIO -->
+    <estudiante id="6">
+      <apellidos>Cagua Bermudez</apellidos>
+      <nombres>Bryan Alejandro</nombres>
+      <semestre>7mo</semestre>
+      <paralelo>B</paralelo>
+      <direccion>Bahia de Caraquez</direccion>
+      <telefono>0912336475</telefono>
+      <correo_electronico>bryan@gmail.com</correo_electronico>
+    </estudiante>
+    <!-- SEPTIMO USUARIO -->
+    <estudiante id="7">
+      <apellidos>Intriago Alvarado</apellidos>
+          <nombres>Roberth Anderson</nombres>
+          <semestre>6to</semestre>
+          <paralelo>B</paralelo>
+          <direccion>San agustin</direccion>
+          <telefono>0246359899</telefono>
+          <correo_electronico>roberth@outlook.com</correo_electronico>
+    </estudiante>
+    <!-- OCTAVO USUARIO -->
+    <estudiante id="8">
+      <apellidos>Vera Velez</apellidos>
+      <nombres>Geovanny Lucas</nombres>
+      <semestre>8vo</semestre>
+      <paralelo>B</paralelo>
+      <direccion>Nuevo Tarqui</direccion>
+      <telefono>0988463598</telefono>
+      <correo_electronico>vera@hotmail.com</correo_electronico>
+    </estudiante>
+    <!-- NOVENO USUARIO -->
+    <estudiante id="9">
+      <apellidos>Medina Torres</apellidos>
+          <nombres>Maria Johana</nombres>
+          <semestre>8vo</semestre>
+          <paralelo>B</paralelo>
+          <direccion>Playita mia</direccion>
+          <telefono>0995316894</telefono>
+          <correo_electronico>maria@gmail.com</correo_electronico>
+    </estudiante>
+    <!-- DECIMO USUARIO -->
+    <estudiante id="10">
+      <apellidos>Espinoza Moreira</apellidos>
+          <nombres>Andrea Margarita</nombres>
+          <semestre>7mo</semestre>
+          <paralelo>A</paralelo>
+          <direccion>El palmar</direccion>
+          <telefono>0946235321</telefono>
+          <correo_electronico>andrea@gmail.com</correo_electronico>
+    </estudiante>
+  </Usuariosdatos>

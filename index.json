@@ -1,0 +1,99 @@
+{
+    "DatosEstudiante": [
+      {
+  
+        "apellidos": "Ayovi Sanchez",
+        "nombres": "Jose Marcos",
+        "semestre": "4to",
+        "paralelo": "A",
+        "direccion": "Los esteros",
+        "telefono": "0925549631",
+        "correo": "ayovi@gmail.com"
+    
+    
+    
+    },
+    {
+        "apellidos": "Pin Tinitana",
+        "nombres": "Bryan Antonio",
+        "semestre": "5to",
+        "paralelo": "B",
+        "direccion": "Los espinos",
+        "telefono": "0925496317",
+        "correo": "bryan@gmail.com"
+    },
+    {
+        "apellidos": "Mero Segovia",
+        "nombres": "Ariana Tabata",
+        "semestre": "5to",
+        "paralelo": "A",
+        "direccion": "La pradera",
+        "telefono": "0946319875",
+        "correo": "mero@hotmail.com"
+    },
+    {
+        "apellidos": "Bosquez Ortega",
+        "nombres": "Hector maximiliano",
+        "semestre": "6to",
+        "paralelo": "B",
+        "direccion": "Barrio cuba",
+        "telefono": "0926479318",
+        "correo": "hector@gmail.com"
+    },
+    {
+        "apellidos": "Palacios Bermello",
+        "nombres": "Jipson Luis",
+        "semestre": "6to",
+        "paralelo": "B",
+        "direccion": "Crucita",
+        "telefono": "0978361942",
+        "correo": "palacios@gmail.com"
+    },
+    {
+        "apellidos": "Cagua Bermudez",
+        "nombres": "Bryan Alejandro",
+        "semestre": "7mo",
+        "paralelo": "B",
+        "direccion": "Bahia de Caraquez",
+        "telefono": "0912336475",
+        "correo": "bryan@gmail.com"
+    },
+    {
+        "apellidos": "Intriago Alvarado",
+        "nombres": "Roberth Anderson",
+        "semestre": "6to",
+        "paralelo": "B",
+        "direccion": "San agustin",
+        "telefono": "0246359899",
+        "correo": "roberth@outlook.com"
+    },
+    {
+        "apellidos": "Vera Velez",
+        "nombres": "Geovanny Lucas",
+        "semestre": "8vo",
+        "paralelo": "B",
+        "direccion": "Nuevo Tarqui",
+        "telefono": "0988463598",
+        "correo": "vera@hotmail.com"
+    },
+    {
+        "apellidos": "Medina Torres",
+        "nombres": "Maria Johana",
+        "semestre": "8vo",
+        "paralelo": "B",
+        "direccion": "Playita mia",
+        "telefono": "0995316894",
+        "correo": "maria@gmail.com"
+    },
+    {
+        "apellidos": "Espinoza Moreira",
+        "nombres": "Andrea Margarita",
+        "semestre": "7mo",
+        "paralelo": "A",
+        "direccion": "El palmar",
+        "telefono": "0946235321",
+        "correo": "andrea@gmail.com"
+    }
+    ]
+  }
+  
